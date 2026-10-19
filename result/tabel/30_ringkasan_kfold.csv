@@ -1,0 +1,5 @@
+Skema,Fold,S1 per run: akurasi (%),S1 per run: AUC (%),S1 ensemble: akurasi (%),S1 ensemble: AUC (%),LR: akurasi (%),LR: AUC (%),Selisih ensemble − LR (poin),Run S1 > LR,McNemar ensemble vs LR (p),Akurasi gabungan S1 ens. / LR (%)
+k5 (lama),5,70.54 ± 0.27,78.00 ± 0.53,72.4475,79.2186,73.229,81.3508,-0.7815,0 / 5,0.3725,72.47 / 73.26
+k10,10,70.32 ± 1.16,77.59 ± 1.01,72.0395,78.9835,73.8089,81.2147,-1.7694,0 / 5,0.0502,72.04 / 73.81
+k20,20,70.93 ± 1.43,77.77 ± 0.75,72.037,79.4718,74.2992,81.3023,-2.2621,0 / 5,0.013,72.04 / 74.30
+"k5_baru (kontrol, LR saja)",5,,,,,72.8349,80.4871,,,,– / 72.83

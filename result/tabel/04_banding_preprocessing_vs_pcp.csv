@@ -1,0 +1,5 @@
+Perbandingan,Median korelasi per ROI,Kemiripan matriks FC
+Tanpa regresi nuisance & filter vs PCP filt_global,0.169,0.244
+Notebook ini (dengan GSR) vs PCP filt_global,0.439,0.592
+Notebook ini (tanpa GSR) vs PCP filt_noglobal,0.415,0.504
+Acuan: PCP filt_global vs PCP filt_noglobal,0.878,0.812

@@ -1,0 +1,4 @@
+Model,Akurasi (%),AUC (%)
+CAS-GNN lengkap,59.99 ± 3.53,64.04 ± 3.44
+Logistic Regression FC Pearson + sMRI (AAL),66.26 ± 1.85,73.59 ± 1.39
+LR FC tangent 4 atlas (09b D),71.63 ± 2.84,78.36 ± 2.34

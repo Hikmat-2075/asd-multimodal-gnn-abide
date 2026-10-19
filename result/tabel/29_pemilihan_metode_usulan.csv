@@ -1,0 +1,5 @@
+Konfigurasi,AUC validasi (%),Akurasi uji per run (%),AUC uji per run (%),Akurasi uji ensemble (%),AUC uji ensemble (%),Metode usulan
+S1,74.0491,70.5418,77.9962,72.4475,79.2186,
+S2,74.0059,70.954,77.7752,73.0687,79.2946,
+S3,74.5922,71.7838,79.4034,73.3712,81.2324,
+S4 (S3 + Optuna),75.6031,72.7036,80.187,73.6766,81.1248,◄ AUC validasi tertinggi

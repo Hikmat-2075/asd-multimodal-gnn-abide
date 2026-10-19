@@ -1,0 +1,7 @@
+Perbandingan,Selisih akurasi (poin),Hanya benar di yang baru,Hanya benar di yang lama,p (McNemar),"Bermakna (p < 0,05)"
+LR_D → P0,-16.01,98,256,0.0,ya
+P1 → P2,1.42,57,43,0.1933,tidak
+P1 → P3,0.91,87,78,0.5335,tidak
+P2 → P3,-0.51,85,90,0.7625,tidak
+P3 → P4,-1.82,89,107,0.2245,tidak
+LR_D → P3,-3.65,99,135,0.0219,ya

@@ -1,0 +1,5 @@
+Perbandingan (A → B),Selisih akurasi (poin),Hanya benar di B,Hanya benar di A,p (McNemar),"Bermakna (p < 0,05)"
+C2: PCP → DCAN (ABIDE I),1.92,101,84,0.2394,tidak
+C2: PCP → PCP + DCAN (ABIDE I),2.82,73,48,0.0287,ya
+C3: latih I saja → latih I+II (uji ABIDE I yang sama),2.48,67,45,0.0467,ya
+C4: ABIDE II di CV gabungan → latih I uji II,-3.46,42,68,0.0167,ya

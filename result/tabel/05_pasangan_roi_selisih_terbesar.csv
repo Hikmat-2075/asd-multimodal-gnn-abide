@@ -1,0 +1,21 @@
+Atlas,ROI i,ROI j,r ASD,r kontrol,Selisih
+AAL,Thalamus_R,Temporal_Sup_R,0.132,0.029,0.103
+AAL,Thalamus_R,Temporal_Sup_L,0.1,-0.002,0.102
+AAL,Hippocampus_R,Temporal_Mid_R,0.165,0.065,0.1
+AAL,Frontal_Med_Orb_R,Precuneus_R,0.201,0.301,-0.1
+AAL,Thalamus_R,Temporal_Mid_R,0.006,-0.093,0.099
+HO,Right Frontal Medial Cortex,Right Precuneous Cortex,0.152,0.254,-0.102
+HO,Right Thalamus,Left Planum Temporale,0.076,-0.024,0.1
+HO,Right Thalamus,Left Superior Temporal Gyrus; posterior division,0.015,-0.084,0.099
+HO,Left Thalamus,Left Superior Temporal Gyrus; posterior division,0.086,-0.009,0.095
+HO,Right Thalamus,Right Superior Temporal Gyrus; posterior division,0.074,-0.021,0.095
+CC200,CC140 (Temporal_Mid_R),CC174 (Precuneus_L),0.226,0.336,-0.11
+CC200,CC58 (Precuneus_L),CC109 (Frontal_Med_Orb_L),0.362,0.467,-0.105
+CC200,CC19 (Calcarine_L),CC140 (Temporal_Mid_R),0.011,0.114,-0.102
+CC200,CC109 (Frontal_Med_Orb_L),CC174 (Precuneus_L),0.397,0.494,-0.096
+CC200,CC82 (Angular_L),CC140 (Temporal_Mid_R),0.137,0.232,-0.095
+CC400,CC228 (Temporal_Mid_R),CC368 (Precuneus_L),0.218,0.326,-0.108
+CC400,CC11 (Precuneus_L),CC84 (Frontal_Sup_Medial_L),0.331,0.432,-0.101
+CC400,CC193 (Precuneus_L),CC228 (Temporal_Mid_R),0.228,0.326,-0.099
+CC400,CC232 (Frontal_Med_Orb_R),CC368 (Precuneus_L),0.331,0.426,-0.096
+CC400,CC157 (Temporal_Mid_L),CC185 (Thalamus_L),0.046,-0.05,0.095

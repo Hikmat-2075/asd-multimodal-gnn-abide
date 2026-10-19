@@ -1,0 +1,8 @@
+Aspek,Pilihan saat ini / kandidat,Bukti di notebook ini
+Sumber time series,PCP C-PAC filt_global (sudah diverifikasi),Selisih dengan FC tersimpan ≈ 0
+Ukuran konektivitas,Pearson r (Fisher-z untuk fitur bila perlu),r Precentral L–R = 0.569 (manual = numpy)
+Fitur node,Baris matriks FC (dimensi = jumlah ROI),"x berukuran (116, 116)"
+Pemilihan edge,"Proporsional top-k% (kandidat k = 5, 10, 20, 30)",Densitas |r|≥0.35 antar subjek: 3–46%
+Tanda korelasi,"Seleksi pakai |r|, bobot edge menyimpan tanda r",54.5% pasangan bernilai negatif
+ROI datar,Korelasi = 0; subjek dengan terlalu banyak ROI datar dikeluarkan,Lihat notebook 04a–04d Tahap 8
+Multi-atlas,"Satu graf per atlas (AAL, HO, CC200, CC400) per subjek",Notebook 04a–04d

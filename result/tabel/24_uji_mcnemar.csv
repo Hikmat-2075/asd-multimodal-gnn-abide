@@ -1,0 +1,11 @@
+Varian,Selisih akurasi (poin),Hanya benar di varian,Hanya benar di FC,p,p Holm,Bermakna setelah koreksi
+FC + kopling (1:1),-1.65,54,81,0.024875826456643144,0.24875826456643144,tidak
+FC + kopling (2:1),-1.1,28,46,0.04739297550405176,0.42653677953646585,tidak
+FC + MIND (1:1),-1.28,45,66,0.05716364524660199,0.4573091619728159,tidak
+FC + morfometri (1:1),-1.04,34,51,0.08205429958748713,0.5743800971124099,tidak
+FC + sMRI lengkap (1:1),-1.1,40,58,0.0854105891128046,0.5743800971124099,tidak
+FC + segmentasi (1:1),-0.73,56,68,0.3232476471849844,1.0,tidak
+FC + sMRI lengkap (2:1),-0.37,18,24,0.44079906734259566,1.0,tidak
+FC + morfometri (2:1),-0.31,17,22,0.5223973804968411,1.0,tidak
+FC + MIND (2:1),-0.06,23,24,1.0,1.0,tidak
+FC + segmentasi (2:1),-0.06,32,33,1.0,1.0,tidak

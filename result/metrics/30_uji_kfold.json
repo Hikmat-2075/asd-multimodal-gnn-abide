@@ -1,0 +1,91 @@
+{
+  "notebook": "20",
+  "skema": {
+    "k5 (lama)": 5,
+    "k10": 10,
+    "k20": 20,
+    "k5_baru (kontrol, LR saja)": 5
+  },
+  "ringkasan": {
+    "k5 (lama)": {
+      "Fold": 5.0,
+      "S1 per run: akurasi (%)": "70.54 ± 0.27",
+      "S1 per run: AUC (%)": "78.00 ± 0.53",
+      "S1 ensemble: akurasi (%)": 72.44749093742067,
+      "S1 ensemble: AUC (%)": 79.21861531635834,
+      "LR: akurasi (%)": 73.22896128764029,
+      "LR: AUC (%)": 81.35084775413463,
+      "Selisih ensemble − LR (poin)": -0.781470350219621,
+      "Run S1 > LR": "0 / 5",
+      "McNemar ensemble vs LR (p)": 0.3724648239355135,
+      "Akurasi gabungan S1 ens. / LR (%)": "72.47 / 73.26"
+    },
+    "k10": {
+      "Fold": 5.0,
+      "S1 per run: akurasi (%)": "70.32 ± 1.16",
+      "S1 per run: AUC (%)": "77.59 ± 1.01",
+      "S1 ensemble: akurasi (%)": 72.03950321711805,
+      "S1 ensemble: AUC (%)": 78.98353469861304,
+      "LR: akurasi (%)": 73.80891815053118,
+      "LR: AUC (%)": 81.2147210680507,
+      "Selisih ensemble − LR (poin)": -1.769414933413131,
+      "Run S1 > LR": "0 / 5",
+      "McNemar ensemble vs LR (p)": 0.05024626565236795,
+      "Akurasi gabungan S1 ens. / LR (%)": "72.04 / 73.81"
+    },
+    "k20": {
+      "Fold": 10.0,
+      "S1 per run: akurasi (%)": "70.93 ± 1.43",
+      "S1 per run: AUC (%)": "77.77 ± 0.75",
+      "S1 ensemble: akurasi (%)": 72.03703703703704,
+      "S1 ensemble: AUC (%)": 79.47177809189164,
+      "LR: akurasi (%)": 74.2991568804577,
+      "LR: AUC (%)": 81.30232545201453,
+      "Selisih ensemble − LR (poin)": -2.2621198434206633,
+      "Run S1 > LR": "0 / 5",
+      "McNemar ensemble vs LR (p)": 0.013012554152295684,
+      "Akurasi gabungan S1 ens. / LR (%)": "72.04 / 74.30"
+    },
+    "k5_baru (kontrol, LR saja)": {
+      "Fold": 20.0,
+      "S1 per run: akurasi (%)": NaN,
+      "S1 per run: AUC (%)": NaN,
+      "S1 ensemble: akurasi (%)": NaN,
+      "S1 ensemble: AUC (%)": NaN,
+      "LR: akurasi (%)": 72.83489967927201,
+      "LR: AUC (%)": 80.48709078266462,
+      "Selisih ensemble − LR (poin)": NaN,
+      "Run S1 > LR": NaN,
+      "McNemar ensemble vs LR (p)": NaN,
+      "Akurasi gabungan S1 ens. / LR (%)": "– / 72.83"
+    }
+  },
+  "s1_menang_ensemble": [],
+  "keputusan": "S1 ensemble tidak melampaui LR pada 10-fold maupun 20-fold → protokol tetap 5-fold; hasil S1–S4 yang sekarang dipakai.",
+  "hiper_model": {
+    "hidden": 64,
+    "n_layer": 2,
+    "heads": 4,
+    "dropout": 0.5,
+    "dropout_input": 0.2,
+    "dropedge": 0.2,
+    "dropout_linear": 0.2,
+    "bobot_bantu": 0.5
+  },
+  "cfg_latih": {
+    "lr": 0.001,
+    "weight_decay": 0.001,
+    "batch_size": 32,
+    "max_epochs": 200,
+    "min_epochs": 20,
+    "patience": 40,
+    "val_size": 0.15,
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  }
+}

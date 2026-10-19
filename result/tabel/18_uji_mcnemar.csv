@@ -1,0 +1,21 @@
+Varian,Selisih akurasi (poin),Hanya benar di varian,Hanya benar di acuan,p,p Holm,Bermakna setelah koreksi
+filt_noglobal | tangent + korelasi,0.61,72,66,0.670534100245501,1.0,tidak
+global+noglobal | tangent + korelasi,0.41,57,53,0.7750029828306246,1.0,tidak
+global+noglobal | tangent + partial + korelasi,0.1,44,43,1.0,1.0,tidak
+filt_noglobal | tangent,0.0,26,26,1.0,1.0,tidak
+filt_noglobal | tangent + partial + korelasi,0.0,55,55,1.0,1.0,tidak
+global+noglobal | tangent,-0.2,11,13,0.8388197422027588,1.0,tidak
+global+noglobal | semua 4 jenis,-0.51,58,63,0.7162941145766412,1.0,tidak
+global+noglobal | tangent + partial,-0.61,19,25,0.4513808323961257,1.0,tidak
+filt_noglobal | semua 4 jenis,-0.61,64,70,0.6659501639012324,1.0,tidak
+filt_global | tangent + korelasi,-0.71,48,55,0.5546010666648732,1.0,tidak
+filt_global | tangent + partial,-0.71,17,24,0.34888887944907765,1.0,tidak
+filt_noglobal | tangent + partial,-0.71,27,34,0.4426260049464714,1.0,tidak
+filt_global | semua 4 jenis,-0.81,55,63,0.5194908187566276,1.0,tidak
+filt_global | tangent + partial + korelasi,-1.32,35,48,0.18745986796619285,1.0,tidak
+filt_noglobal | korelasi,-1.52,104,119,0.34851952535956304,1.0,tidak
+filt_global | korelasi,-2.53,86,111,0.08702126865820939,1.0,tidak
+filt_noglobal | partial,-4.26,42,84,0.00022997764547415188,0.004369575264008886,ya
+filt_global | kovarians,-4.46,83,127,0.0029145350555315275,0.04954709594403597,ya
+filt_noglobal | kovarians,-5.27,97,149,0.0011049200405144942,0.019888560729260894,ya
+filt_global | partial,-5.57,44,99,4.887162472052792e-06,9.774324944105584e-05,ya

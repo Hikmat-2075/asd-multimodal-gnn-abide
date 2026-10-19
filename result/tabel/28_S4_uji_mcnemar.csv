@@ -1,0 +1,10 @@
+Model (dibanding baseline LR),Selisih akurasi (poin),Hanya benar di model,Hanya benar di LR,p,p Holm,Kesimpulan
+S4 run 1,-0.55,100,109,0.5801148614761712,1.0,setara (tidak berbeda bermakna)
+S4 run 2,-1.1,108,126,0.26638941120828175,1.0,setara (tidak berbeda bermakna)
+S4 run 3,-2.93,105,153,0.0033535344208515195,0.023474740945960637,lebih rendah secara bermakna
+S4 run 4,-1.83,98,128,0.053483625594766555,0.32090175356859935,setara (tidak berbeda bermakna)
+S4 run 5,-1.1,100,118,0.24951574528641365,1.0,setara (tidak berbeda bermakna)
+S4 ensemble 5 run,-0.24,78,82,0.8126155651898863,1.0,setara (tidak berbeda bermakna)
+kepala bantu: cabang graf,-7.51,136,259,6.104479578140982e-10,4.883583662512786e-09,lebih rendah secara bermakna
+kepala bantu: cabang linear,-0.12,56,58,0.9254349612567242,1.0,setara (tidak berbeda bermakna)
+kepala bantu: cabang fenotipik,-11.97,223,419,8.748823932416814e-15,7.873941539175132e-14,lebih rendah secara bermakna

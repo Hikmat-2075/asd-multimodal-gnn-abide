@@ -1,0 +1,9 @@
+Atlas,Strategi,Subjek,Rata-rata r,Median r (≈),% pasangan negatif,Std rata-rata r antar subjek
+AAL,filt_global,1035,0.004,-0.02,52.0,0.005
+AAL,filt_noglobal,1035,0.291,0.3,12.0,0.096
+HO,filt_global,1035,0.02,0.01,49.1,0.011
+HO,filt_noglobal,1035,0.296,0.3,11.1,0.105
+CC200,filt_global,1035,0.006,-0.02,51.8,0.007
+CC200,filt_noglobal,1035,0.261,0.26,13.6,0.102
+CC400,filt_global,1035,0.006,-0.01,51.1,0.006
+CC400,filt_noglobal,1035,0.218,0.21,16.9,0.092

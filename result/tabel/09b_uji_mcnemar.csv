@@ -1,0 +1,10 @@
+Perbandingan,Selisih akurasi (poin),Hanya benar di tahap baru,Hanya benar di tahap lama,p (McNemar),"Bermakna (p < 0,05)"
+A → B,2.03,136,116,0.2313,tidak
+B → C,3.95,106,67,0.0037,ya
+C → D,0.61,40,34,0.5614,tidak
+D → E,-2.53,41,66,0.0199,ya
+E → F1,-0.1,10,11,1.0,tidak
+F1 → F2,-0.1,7,8,1.0,tidak
+A → F2,3.85,165,127,0.0302,ya
+D → F2 tanpa ComBat,-0.3,17,20,0.7428,tidak
+F2 tanpa ComBat → F2,-2.43,48,72,0.0353,ya

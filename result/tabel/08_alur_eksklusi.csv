@@ -1,0 +1,8 @@
+Tahap,Subjek tersisa,Dikeluarkan,ASD,Kontrol
+0. Fenotipe ABIDE I asli,1112,-,539,573
+1. fMRI & sMRI mentah tersedia (notebook 03),1097,15,531,566
+2. FILE_ID ≠ no_filename,1035,62,505,530
+3. Time series filt_global 4 atlas,1035,0,505,530
+4. ROI datar ≤ 5% di setiap atlas,1009,26,489,520
+5. Statistik FreeSurfer tersedia,1009,0,489,520
+6. Lolos QC FreeSurfer,987,22,476,511

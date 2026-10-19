@@ -1,0 +1,3 @@
+Fitur,Tipe Variabel,Chi-Square (χ²),p-value,Cramer's V,Signifikan (p < 0.05)?,Keputusan
+EYE_STATUS_AT_SCAN,"Kategorikal (1: Open, 2: Closed)",0.0185,0.8917,0.0041,Tidak (p = 0.8917),DROP dari Fitur & Metadata Bersih
+HANDEDNESS_CATEGORY,"Kategorikal (R, L, Ambi, Mixed)",3.9299,0.4156,0.0714,Tidak (p = 0.4430),RETAIN di Metadata (Imputasi Modus)

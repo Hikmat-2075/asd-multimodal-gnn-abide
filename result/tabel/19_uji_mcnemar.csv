@@ -1,0 +1,13 @@
+Varian,Selisih akurasi (poin),Hanya benar di varian,Hanya benar di acuan,p,p Holm,Bermakna setelah koreksi
+FC terbaik (bobot 2) + peta + sMRI,0.91,62,53,0.45581402955519196,1.0,tidak
+FC terbaik + peta per ROI + sMRI ANTsPy + FreeSurfer,-0.71,81,88,0.6445422120603314,1.0,tidak
+7 atlas | tangent,-0.71,18,25,0.3603776529357674,1.0,tidak
+4 atlas lama | tangent + korelasi,-0.71,48,55,0.5546010666648732,1.0,tidak
+FC terbaik + sMRI ANTsPy + FreeSurfer,-0.81,84,92,0.5978724490556658,1.0,tidak
+7 atlas | tangent + korelasi,-1.62,53,69,0.17420540549297117,1.0,tidak
+FC terbaik + peta per ROI,-1.93,60,79,0.12652294497263591,0.8856606148084514,tidak
+3 atlas baru | tangent,-2.33,69,92,0.08262582271649302,0.6610065817319442,tidak
+peta per ROI | 4 atlas,-8.0,101,180,2.8351779228470466e-06,2.551660130562342e-05,ya
+sMRI | ANTsPy + FreeSurfer,-11.45,138,251,1.0789591339373145e-08,1.0789591339373145e-07,ya
+sMRI | FreeSurfer,-11.75,142,258,7.055209132157561e-09,7.760730045373317e-08,ya
+sMRI | ANTsPy,-16.41,128,290,1.5103274409772948e-15,1.8123929291727536e-14,ya

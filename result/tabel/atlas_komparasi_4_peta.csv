@@ -1,0 +1,5 @@
+Nama Atlas,Tipe Pendekatan,Jumlah ROI Terdeteksi,Dimensi Grid 3D,Ukuran Voxel (mm),Nama File NIfTI,Nama File Label
+AAL (116 ROI),Anatomi Struktural (Gyri & Sulci),116,65 x 77 x 63,3.0 x 3.0 x 3.0,aal_roi_atlas.nii.gz,aal_labels.csv
+Harvard-Oxford (111 ROI),Probabilistik Anatomi Kortikal & Subkortikal,111,65 x 77 x 63,3.0 x 3.0 x 3.0,ho_roi_atlas.nii.gz,ho_labels.csv
+Craddock 200 (CC200),Klaster Fungsional fMRI (200 ROI),200,63 x 75 x 61,3.0 x 3.0 x 3.0,cc200_roi_atlas.nii.gz,CC200_ROI_labels.csv
+Craddock 400 (CC400),Klaster Fungsional fMRI (400 ROI),392,63 x 75 x 61,3.0 x 3.0 x 3.0,cc400_roi_atlas.nii.gz,CC400_ROI_labels.csv

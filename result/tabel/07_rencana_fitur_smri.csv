@@ -1,0 +1,6 @@
+Kelompok fitur,Sumber,Jumlah fitur,Catatan
+Ketebalan korteks,lh/rh.aparc.stats (ThickAvg),68,Paling sering dipakai di literatur
+Luas permukaan,lh/rh.aparc.stats (SurfArea),68,Sensitif terhadap ukuran kepala
+Volume GM korteks,lh/rh.aparc.stats (GrayVol),68,Dinormalisasi dengan ICV
+Volume subkortikal,aseg.stats (Volume_mm3),12,"Thalamus, caudate, putamen, hippocampus, amygdala, accumbens"
+Ukuran global,aseg.stats (# Measure),10,ICV dipakai untuk normalisasi

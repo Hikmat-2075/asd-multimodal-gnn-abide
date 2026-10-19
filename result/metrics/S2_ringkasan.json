@@ -1,0 +1,108 @@
+{
+  "skenario": "S2",
+  "notebook": "26",
+  "n_subjek": 1638,
+  "n_run": 5,
+  "rata_rata_antar_run": {
+    "Akurasi (%)": 70.954,
+    "Balanced acc. (%)": 69.6815,
+    "Sensitivitas (%)": 59.6873,
+    "Spesifisitas (%)": 79.6757,
+    "Presisi (%)": 70.0992,
+    "F1 (%)": 63.9251,
+    "AUC (%)": 77.7752
+  },
+  "sd_antar_run": {
+    "Akurasi (%)": 0.9288,
+    "Balanced acc. (%)": 1.1993,
+    "Sensitivitas (%)": 5.6401,
+    "Spesifisitas (%)": 3.9906,
+    "Presisi (%)": 2.3677,
+    "F1 (%)": 2.8121,
+    "AUC (%)": 0.4383
+  },
+  "per_run": {
+    "run 1 (seed 0)": {
+      "Akurasi (%)": 70.3153,
+      "Balanced acc. (%)": 69.8001,
+      "Sensitivitas (%)": 65.101,
+      "Spesifisitas (%)": 74.4991,
+      "Presisi (%)": 66.9256,
+      "F1 (%)": 65.6081,
+      "AUC (%)": 78.0299
+    },
+    "run 2 (seed 1)": {
+      "Akurasi (%)": 69.7603,
+      "Balanced acc. (%)": 67.5944,
+      "Sensitivitas (%)": 50.4386,
+      "Spesifisitas (%)": 84.7501,
+      "Presisi (%)": 72.3227,
+      "F1 (%)": 58.925,
+      "AUC (%)": 78.3353
+    },
+    "run 3 (seed 2)": {
+      "Akurasi (%)": 71.2538,
+      "Balanced acc. (%)": 70.2096,
+      "Sensitivitas (%)": 61.9354,
+      "Spesifisitas (%)": 78.4838,
+      "Presisi (%)": 69.3835,
+      "F1 (%)": 65.1447,
+      "AUC (%)": 77.2703
+    },
+    "run 4 (seed 3)": {
+      "Akurasi (%)": 72.1408,
+      "Balanced acc. (%)": 70.5842,
+      "Sensitivitas (%)": 58.7367,
+      "Spesifisitas (%)": 82.4316,
+      "Presisi (%)": 72.5919,
+      "F1 (%)": 64.7374,
+      "AUC (%)": 77.8284
+    },
+    "run 5 (seed 4)": {
+      "Akurasi (%)": 71.3,
+      "Balanced acc. (%)": 70.2194,
+      "Sensitivitas (%)": 62.2249,
+      "Spesifisitas (%)": 78.2138,
+      "Presisi (%)": 69.2723,
+      "F1 (%)": 65.2102,
+      "AUC (%)": 77.4119
+    }
+  },
+  "ensemble": {
+    "accuracy": 73.0687,
+    "balanced": 71.6412,
+    "sensitivity": 60.5117,
+    "specificity": 82.7708,
+    "precision": 73.3155,
+    "f1": 66.1968,
+    "auc": 79.2946
+  },
+  "hiper_model": {
+    "hidden": 64,
+    "n_layer": 2,
+    "heads": 4,
+    "dropout": 0.5,
+    "dropout_input": 0.2,
+    "dropedge": 0.2,
+    "dropout_linear": 0.2,
+    "bobot_bantu": 0.5
+  },
+  "cfg_latih": {
+    "lr": 0.001,
+    "weight_decay": 0.001,
+    "batch_size": 32,
+    "max_epochs": 200,
+    "min_epochs": 20,
+    "patience": 40,
+    "val_size": 0.15,
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "k_sisi": 20,
+  "fusi": "penjumlahan logit (Wide & Deep)"
+}

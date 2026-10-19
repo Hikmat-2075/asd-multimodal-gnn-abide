@@ -1,0 +1,7 @@
+Perbandingan,Selisih akurasi (poin),Hanya benar di yang baru,Hanya benar di yang lama,p (McNemar),"Bermakna (p < 0,05)"
+P_tanpa_ca → P_casgnn,5.1,81,58,0.0616,tidak
+P_tanpa_sgc → P_casgnn,0.22,36,35,1.0,tidak
+P_tanpa_csa → P_casgnn,-0.89,45,49,0.7572,tidak
+P_lr → P_casgnn,-3.1,58,72,0.2541,tidak
+P_loso_lr → P_loso,-9.53,45,88,0.0002,ya
+S_lr → S_casgnn,-6.28,122,184,0.0005,ya

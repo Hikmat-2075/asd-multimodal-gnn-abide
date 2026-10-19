@@ -1,0 +1,78 @@
+# ===================================================================
+# .gitignore — Tugas Akhir v7 (deteksi ASD, GATv2 multimodal, ABIDE I+II DCAN)
+# ===================================================================
+
+# ---- rahasia ------------------------------------------------------
+.env
+*.env
+
+# ---- lingkungan & cache Python -------------------------------------
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+nilearn_cache/
+scratch/
+
+# ---- data ABIDE/DCAN (besar + syarat penggunaan ABIDE + data per subjek)
+# unduh ulang dengan skrip di tools/
+data/
+
+# ---- berkas berhak cipta (teks lengkap paper orang lain) ------------
+5_Tahun_Terakhir/
+references/
+
+# ---- pribadi: rekaman & transkrip bimbingan ------------------------
+rekaman/
+
+# ---- arsip (berisi data .npy besar yang tidak terpakai) -------------
+_arsip/
+**/_arsip*/
+
+# ---- cache dan database hasil (bisa dibuat ulang dari notebook) ----
+result/tabel/*_cache*/
+result/tabel/*_optuna/
+result/tabel/31_grid/
+*.db
+*.npz
+*.npy
+*.pt
+*.pth
+
+# ---- tabel hasil yang berisi ID subjek (data per subjek) ------------
+result/**/*prediksi*.csv
+result/**/*_prob_fold*.csv
+result/**/*qc_*.csv
+result/tabel/07c_rekap_pemrosesan_smri.csv
+result/tabel/07d_subjek_ditandai_qc.csv
+result/**/*bobot_atensi*.csv
+result/tabel/15_log_unduh_peta_pcp.csv
+result/tabel/21_ringkasan_situs_dcan.csv
+result/tabel/30_fold_kfold.csv
+
+# ---- berkas sampingan LaTeX -----------------------------------------
+*.aux
+*.log
+*.bbl
+*.blg
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+paper_conference/build.log
+
+# ---- sistem operasi / editor ----------------------------------------
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
+
+# ---- tidak di-upload atas permintaan (21 Okt 2026) ------------------
+paper_conference/
+proposal/
+docs/
+tools/

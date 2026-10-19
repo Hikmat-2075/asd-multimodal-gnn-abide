@@ -1,0 +1,18 @@
+,Tipe_Data,Jumlah_Kosong,Persen_Kosong (%)
+SITE_ID,str,0,0.0
+RAW_FOLDER,str,0,0.0
+SUB_ID,int64,0,0.0
+SUB_ID_STR,str,0,0.0
+FILE_ID,str,0,0.0
+DX_GROUP,int64,0,0.0
+LABEL,str,0,0.0
+LABEL_BIN,int64,0,0.0
+AGE_AT_SCAN,float64,0,0.0
+SEX,int64,0,0.0
+SEX_LABEL,str,0,0.0
+HANDEDNESS_CATEGORY,str,0,0.0
+FIQ,float64,0,0.0
+VIQ,float64,0,0.0
+PIQ,float64,0,0.0
+HAS_RAW_FMRI,bool,0,0.0
+HAS_RAW_SMRI,bool,0,0.0

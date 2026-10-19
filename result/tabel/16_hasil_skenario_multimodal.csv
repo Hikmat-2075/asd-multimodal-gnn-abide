@@ -1,0 +1,8 @@
+Tahap,Akurasi (%),Sensitivitas (%),Spesifisitas (%),F1 (%),AUC (%)
+S1. rs-fMRI saja,70.32 ± 2.66,66.23 ± 3.75,74.22 ± 5.10,68.27 ± 2.63,78.12 ± 2.22
+"S2. rs-fMRI + sMRI, concat",69.60 ± 3.22,64.91 ± 5.49,74.01 ± 3.97,67.23 ± 4.14,77.18 ± 2.43
+"S3. rs-fMRI + sMRI + fenotipik, concat",70.21 ± 3.06,66.87 ± 4.63,73.43 ± 4.60,68.38 ± 3.28,78.05 ± 2.17
+"S4. rs-fMRI + sMRI + fenotipik, fusi atensi",71.02 ± 2.76,69.55 ± 4.27,72.45 ± 3.09,69.79 ± 3.28,78.28 ± 2.48
+"A1. ablasi: S4 + citra 3D, fusi atensi",69.81 ± 2.21,65.36 ± 4.59,73.99 ± 3.12,67.55 ± 2.95,77.92 ± 2.34
+Pembanding: stacking LR tri-modal (09b F2 tanpa ComBat),71.33 ± 2.56,68.95 ± 3.92,73.63 ± 4.18,69.85 ± 2.74,78.56 ± 2.51
+Pembanding: LR FC tangent 4 atlas (09b D),71.63 ± 2.84,65.60 ± 5.53,77.34 ± 3.21,68.95 ± 3.73,78.36 ± 2.34

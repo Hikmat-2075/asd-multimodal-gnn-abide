@@ -1,0 +1,3 @@
+Perbandingan,Selisih akurasi (poin),Hanya benar di S3,Hanya benar di S2,p,"Bermakna (p < 0,05)"
+ensemble S2 → ensemble S3,0.31,86,81,0.7570261671839604,tidak
+kepala bantu graf S2 → S3,1.16,166,147,0.30894960067362964,tidak

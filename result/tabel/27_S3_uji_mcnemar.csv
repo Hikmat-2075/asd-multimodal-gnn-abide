@@ -1,0 +1,10 @@
+Model (dibanding baseline LR),Selisih akurasi (poin),Hanya benar di model,Hanya benar di LR,p,p Holm,Kesimpulan
+S3 run 1,-1.28,107,128,0.19189985374432741,0.7675994149773097,setara (tidak berbeda bermakna)
+S3 run 2,-2.38,119,158,0.02224780710850054,0.15573464975950377,setara (tidak berbeda bermakna)
+S3 run 3,-1.53,106,131,0.11881852716560924,0.5940926358280462,setara (tidak berbeda bermakna)
+S3 run 4,-0.31,110,115,0.7897969502669114,1.0,setara (tidak berbeda bermakna)
+S3 run 5,-1.83,126,156,0.0839992706599819,0.5039956239598914,setara (tidak berbeda bermakna)
+S3 ensemble 5 run,0.12,85,83,0.9385334053888001,1.0,setara (tidak berbeda bermakna)
+kepala bantu: cabang graf,-4.33,156,227,0.00033563008162493957,0.0026850406529995165,lebih rendah secara bermakna
+kepala bantu: cabang linear,-0.06,48,49,1.0,1.0,setara (tidak berbeda bermakna)
+kepala bantu: cabang fenotipik,-10.93,229,408,1.2575015182210446e-12,1.1317513663989402e-11,lebih rendah secara bermakna

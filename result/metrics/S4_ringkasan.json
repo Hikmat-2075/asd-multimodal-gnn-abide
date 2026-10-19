@@ -1,0 +1,178 @@
+{
+  "skenario": "S4",
+  "notebook": "19",
+  "n_subjek": 1638,
+  "n_run": 5,
+  "rata_rata_antar_run": {
+    "Akurasi (%)": 72.7036,
+    "Balanced acc. (%)": 71.3225,
+    "Sensitivitas (%)": 60.3733,
+    "Spesifisitas (%)": 82.2716,
+    "Presisi (%)": 72.8493,
+    "F1 (%)": 65.6341,
+    "AUC (%)": 80.187
+  },
+  "sd_antar_run": {
+    "Akurasi (%)": 1.4398,
+    "Balanced acc. (%)": 1.6719,
+    "Sensitivitas (%)": 3.8663,
+    "Spesifisitas (%)": 1.3316,
+    "Presisi (%)": 1.5525,
+    "F1 (%)": 2.7004,
+    "AUC (%)": 0.536
+  },
+  "per_run": {
+    "run 1 (seed 0)": {
+      "Akurasi (%)": 74.908,
+      "Balanced acc. (%)": 73.7143,
+      "Sensitivitas (%)": 64.4554,
+      "Spesifisitas (%)": 82.9731,
+      "Presisi (%)": 75.3058,
+      "F1 (%)": 69.1074,
+      "AUC (%)": 80.6174
+    },
+    "run 2 (seed 1)": {
+      "Akurasi (%)": 71.4762,
+      "Balanced acc. (%)": 69.7753,
+      "Sensitivitas (%)": 55.9708,
+      "Spesifisitas (%)": 83.5798,
+      "Presisi (%)": 72.3474,
+      "F1 (%)": 62.7153,
+      "AUC (%)": 79.5221
+    },
+    "run 3 (seed 2)": {
+      "Akurasi (%)": 73.3156,
+      "Balanced acc. (%)": 72.2048,
+      "Sensitivitas (%)": 63.1359,
+      "Spesifisitas (%)": 81.2737,
+      "Presisi (%)": 72.3681,
+      "F1 (%)": 67.2362,
+      "AUC (%)": 80.8373
+    },
+    "run 4 (seed 3)": {
+      "Akurasi (%)": 71.5288,
+      "Balanced acc. (%)": 69.8279,
+      "Sensitivitas (%)": 56.5897,
+      "Spesifisitas (%)": 83.0661,
+      "Presisi (%)": 73.1216,
+      "F1 (%)": 63.1968,
+      "AUC (%)": 80.0581
+    },
+    "run 5 (seed 4)": {
+      "Akurasi (%)": 72.2895,
+      "Balanced acc. (%)": 71.0901,
+      "Sensitivitas (%)": 61.7148,
+      "Spesifisitas (%)": 80.4654,
+      "Presisi (%)": 71.1033,
+      "F1 (%)": 65.9148,
+      "AUC (%)": 79.9
+    }
+  },
+  "ensemble": {
+    "accuracy": 73.6766,
+    "balanced": 72.2095,
+    "sensitivity": 60.682,
+    "specificity": 83.7371,
+    "precision": 74.5347,
+    "f1": 66.7665,
+    "auc": 81.1248
+  },
+  "hiper_model_per_fold": {
+    "0": {
+      "hidden": 128,
+      "n_layer": 1,
+      "heads": 2,
+      "dropout": 0.38785583697340065,
+      "dropout_input": 0.3861211709617812,
+      "dropedge": 0.23209204209286416,
+      "dropout_linear": 0.042977784151469856,
+      "bobot_bantu": 0.28649393127706263
+    },
+    "1": {
+      "hidden": 64,
+      "n_layer": 2,
+      "heads": 4,
+      "dropout": 0.5,
+      "dropout_input": 0.2,
+      "dropedge": 0.2,
+      "dropout_linear": 0.2,
+      "bobot_bantu": 0.5
+    },
+    "2": {
+      "hidden": 128,
+      "n_layer": 1,
+      "heads": 4,
+      "dropout": 0.38714824032548206,
+      "dropout_input": 0.16665285261985519,
+      "dropedge": 0.1685990967680224,
+      "dropout_linear": 0.23573338634837454,
+      "bobot_bantu": 0.15845119510792596
+    },
+    "3": {
+      "hidden": 32,
+      "n_layer": 1,
+      "heads": 4,
+      "dropout": 0.45607064675962355,
+      "dropout_input": 0.05733292698852854,
+      "dropedge": 0.16565076788648292,
+      "dropout_linear": 0.02455446219893681,
+      "bobot_bantu": 0.2884360145701273
+    },
+    "4": {
+      "hidden": 64,
+      "n_layer": 1,
+      "heads": 2,
+      "dropout": 0.48428873579130527,
+      "dropout_input": 0.37545460494079885,
+      "dropedge": 0.2929734003040696,
+      "dropout_linear": 0.26472195760543654,
+      "bobot_bantu": 0.45958650882246244
+    }
+  },
+  "latih_per_fold": {
+    "0": {
+      "lr": 0.0008289940066275686,
+      "weight_decay": 0.003826597121433047,
+      "batch_size": 32
+    },
+    "1": {
+      "lr": 0.001,
+      "weight_decay": 0.001,
+      "batch_size": 32
+    },
+    "2": {
+      "lr": 0.000680609760997998,
+      "weight_decay": 0.00021974648799277688,
+      "batch_size": 32
+    },
+    "3": {
+      "lr": 0.0014468031091255471,
+      "weight_decay": 0.0008981901981081167,
+      "batch_size": 64
+    },
+    "4": {
+      "lr": 0.0021806134741892296,
+      "weight_decay": 8.000486856872954e-05,
+      "batch_size": 64
+    }
+  },
+  "n_trial_optuna": 20,
+  "cfg_latih": {
+    "lr": 0.001,
+    "weight_decay": 0.001,
+    "batch_size": 32,
+    "max_epochs": 200,
+    "min_epochs": 20,
+    "patience": 40,
+    "val_size": 0.15,
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "k_sisi": 20,
+  "fusi": "fusi atensi"
+}

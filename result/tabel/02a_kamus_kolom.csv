@@ -1,0 +1,349 @@
+Kolom,Kelompok,Terisi (%)
+site_id,Identitas,100.0
+participant_id,Identitas,100.0
+ndar_guid,Identitas,27.9
+dx_group,Diagnosis (label),100.0
+pdd_dsm_iv_tr,Diagnosis (label),59.1
+asd_dsm_5,Diagnosis (label),20.4
+age_at_scan,Demografi,100.0
+sex,Demografi,100.0
+handedness_category,Demografi,97.7
+handedness_scores,Demografi,56.7
+fiq,Kecerdasan (IQ),90.3
+viq,Kecerdasan (IQ),68.7
+piq,Kecerdasan (IQ),76.0
+fiq_test_type,Kecerdasan (IQ),90.3
+viq_test_type,Kecerdasan (IQ),68.7
+piq_test_type,Kecerdasan (IQ),76.0
+adi_r_social_total_a,Tes klinis autisme,28.8
+adi_r_verbal_total_bv,Tes klinis autisme,28.7
+adi_r_nonverbal_total_bv,Tes klinis autisme,24.7
+adi_r_rrb_total_c,Tes klinis autisme,28.8
+adi_r_onset_total_d,Tes klinis autisme,28.8
+adi_r_rsrch_reliable,Tes klinis autisme,28.8
+ados_module,Tes klinis autisme,48.6
+ados_rsrch_reliable,Tes klinis autisme,48.6
+ados_g_total,Tes klinis autisme,31.2
+ados_g_comm,Tes klinis autisme,31.2
+ados_g_social,Tes klinis autisme,31.2
+ados_g_stereo_behav,Tes klinis autisme,31.2
+ados_g_creativity,Tes klinis autisme,4.8
+ados_2_socaffect,Tes klinis autisme,23.3
+ados_2_rrb,Tes klinis autisme,23.3
+ados_2_total,Tes klinis autisme,23.3
+ados_2_severity_total,Tes klinis autisme,22.8
+srs_edition,Tes klinis autisme,74.7
+srs_version,Tes klinis autisme,74.7
+srs_informant,Tes klinis autisme,74.7
+srs_total_raw,Tes klinis autisme,74.7
+srs_awareness_raw,Tes klinis autisme,71.9
+srs_cognition_raw,Tes klinis autisme,71.9
+srs_communication_raw,Tes klinis autisme,74.7
+srs_motivation_raw,Tes klinis autisme,74.7
+srs_mannerisms_raw,Tes klinis autisme,74.7
+srs_total_t,Tes klinis autisme,71.8
+srs_awareness_t,Tes klinis autisme,69.0
+srs_cognition_t,Tes klinis autisme,69.0
+srs_communication_t,Tes klinis autisme,71.1
+srs_motivation_t,Tes klinis autisme,71.1
+srs_mannerisms_t,Tes klinis autisme,71.1
+scq_version,Tes klinis autisme,26.0
+scq_total,Tes klinis autisme,25.9
+aq_total,Tes klinis autisme,4.4
+nonasd_psydx_icd9code,Diagnosis (label),60.1
+nonasd_psydx_label,Diagnosis (label),60.1
+current_med_status,Kondisi saat pemindaian,94.2
+current_medication_name,Kondisi saat pemindaian,94.2
+off_stimulants_at_scan,Kondisi saat pemindaian,7.1
+eye_status_at_scan,Kondisi saat pemindaian,99.9
+age_at_mprage,Demografi,0.0
+bmi,Demografi,14.4
+vineland_receptive_v_scaled,Kuesioner perilaku/psikologis lain,10.2
+vineland_expressive_v_scaled,Kuesioner perilaku/psikologis lain,10.2
+vineland_written_v_scaled,Kuesioner perilaku/psikologis lain,10.2
+vineland_communication_standard,Kuesioner perilaku/psikologis lain,10.2
+vineland_personal_v_scaled,Kuesioner perilaku/psikologis lain,10.2
+vineland_domestic_v_scaled,Kuesioner perilaku/psikologis lain,10.2
+vineland_community_v_scaled,Kuesioner perilaku/psikologis lain,10.2
+vineland_dailyliving_standard,Kuesioner perilaku/psikologis lain,10.2
+vineland_interpersonal_v_scaled,Kuesioner perilaku/psikologis lain,10.2
+vineland_play_v_scaled,Kuesioner perilaku/psikologis lain,10.2
+vineland_coping_v_scaled,Kuesioner perilaku/psikologis lain,10.2
+vineland_social_standard,Kuesioner perilaku/psikologis lain,10.2
+vineland_gross_v_scaled,Kuesioner perilaku/psikologis lain,3.1
+vineland_fine_v_scaled,Kuesioner perilaku/psikologis lain,3.1
+vineland_motor_standard,Kuesioner perilaku/psikologis lain,3.1
+vineland_sum_scores,Kuesioner perilaku/psikologis lain,10.2
+vineland_abc_standard,Kuesioner perilaku/psikologis lain,10.2
+vineland_informant,Kuesioner perilaku/psikologis lain,10.1
+rbsr_6subscale_stereotyped,Tes klinis autisme,42.2
+rbsr_6subscale_self-injurious,Tes klinis autisme,42.2
+rbsr_6subscale_compulsive,Tes klinis autisme,42.1
+rbsr_6subscale_ritualistic,Tes klinis autisme,42.1
+rbsr_6subscale_sameness,Tes klinis autisme,42.2
+rbsr_6subscale_restricted,Tes klinis autisme,42.2
+rbsr_6subscale_total,Tes klinis autisme,42.1
+rbsr_5subscale_stereotypic,Tes klinis autisme,23.3
+rbsr_5subscale_self-injurious,Tes klinis autisme,23.3
+rbsr_5subscale_compulsive,Tes klinis autisme,23.2
+rbsr_5subscale_ritualistic,Tes klinis autisme,23.2
+rbsr_5subscale_restricted,Tes klinis autisme,23.3
+rbsr_5subscale_total,Tes klinis autisme,23.2
+masc_edition,Kuesioner perilaku/psikologis lain,21.4
+masc_total_t,Kuesioner perilaku/psikologis lain,21.4
+masc_t/r_t,Kuesioner perilaku/psikologis lain,21.4
+masc_s/a_t,Kuesioner perilaku/psikologis lain,21.4
+masc_physical_total_t,Kuesioner perilaku/psikologis lain,21.4
+masc_per_t,Kuesioner perilaku/psikologis lain,21.4
+masc_ac_t,Kuesioner perilaku/psikologis lain,21.4
+masc_harm_total_t,Kuesioner perilaku/psikologis lain,21.4
+masc_h/r_t,Kuesioner perilaku/psikologis lain,21.4
+masc_pp_t,Kuesioner perilaku/psikologis lain,21.4
+masc_social_total_t,Kuesioner perilaku/psikologis lain,21.4
+masc_sep_t,Kuesioner perilaku/psikologis lain,21.4
+masc_adi_t,Kuesioner perilaku/psikologis lain,21.4
+masc_inconsistency_score,Kuesioner perilaku/psikologis lain,21.5
+brief_version,Kuesioner perilaku/psikologis lain,45.8
+brief_informant,Kuesioner perilaku/psikologis lain,38.7
+brief_inhibit_t,Kuesioner perilaku/psikologis lain,45.8
+brief_shift_t,Kuesioner perilaku/psikologis lain,45.8
+brief_emotional_t,Kuesioner perilaku/psikologis lain,45.7
+brief_bri_t,Kuesioner perilaku/psikologis lain,45.7
+brief_initiate_t,Kuesioner perilaku/psikologis lain,45.8
+brief_working_t,Kuesioner perilaku/psikologis lain,45.8
+brief_plan_t,Kuesioner perilaku/psikologis lain,45.6
+brief_organization_t,Kuesioner perilaku/psikologis lain,45.8
+brief_monitor_t,Kuesioner perilaku/psikologis lain,45.7
+brief_mi_t,Kuesioner perilaku/psikologis lain,45.6
+brief_gec_t,Kuesioner perilaku/psikologis lain,45.5
+brief_inconsistency_score,Kuesioner perilaku/psikologis lain,40.1
+brief_negativity_score,Kuesioner perilaku/psikologis lain,40.1
+cbcl_6-18_activities_t,Kuesioner perilaku/psikologis lain,27.4
+cbcl_6-18_social_t,Kuesioner perilaku/psikologis lain,26.9
+cbcl_6-18_school_t,Kuesioner perilaku/psikologis lain,27.2
+cbcl_6-18_total_competence_t,Kuesioner perilaku/psikologis lain,10.0
+cbcl_6-18_anxious_t,Kuesioner perilaku/psikologis lain,39.8
+cbcl_6-18_withdrawn_t,Kuesioner perilaku/psikologis lain,39.8
+cbcl_6-18_somatic_compaint_t,Kuesioner perilaku/psikologis lain,39.8
+cbcl_6-18_social_problem_t,Kuesioner perilaku/psikologis lain,39.8
+cbcl_6-18_thought_t,Kuesioner perilaku/psikologis lain,39.8
+cbcl_6-18_attention_t,Kuesioner perilaku/psikologis lain,39.8
+cbcl_6-18_rule_t,Kuesioner perilaku/psikologis lain,39.8
+cbcl_6-18_aggressive_t,Kuesioner perilaku/psikologis lain,39.8
+cbcl_6-18_internal_t,Kuesioner perilaku/psikologis lain,39.8
+cbcl_6-18_external_t,Kuesioner perilaku/psikologis lain,39.8
+cbcl_6-18_total_problem_t,Kuesioner perilaku/psikologis lain,39.7
+cbcl_6-18_affective_t,Kuesioner perilaku/psikologis lain,27.6
+cbcl_6-18_anxiety_t,Kuesioner perilaku/psikologis lain,27.6
+cbcl_6-18_somatic_problem_t,Kuesioner perilaku/psikologis lain,27.6
+cbcl_6-18_attention_deficit_t,Kuesioner perilaku/psikologis lain,27.6
+cbcl_6-18_oppositional_t,Kuesioner perilaku/psikologis lain,27.6
+cbcl_6-18_conduct_t,Kuesioner perilaku/psikologis lain,27.6
+cbcl_6-18_sluggish_t,Kuesioner perilaku/psikologis lain,13.7
+cbcl_6-18_obsessive_t,Kuesioner perilaku/psikologis lain,13.7
+cbcl_6-18_post_traumatic_t,Kuesioner perilaku/psikologis lain,13.7
+cbcl_1.5-5_emotion_t,Kuesioner perilaku/psikologis lain,1.7
+cbcl_1.5-5_anxious_t,Kuesioner perilaku/psikologis lain,1.7
+cbcl_1.5-5_somantic_t,Kuesioner perilaku/psikologis lain,1.7
+cbcl_1.5-5_withdrawn_t,Kuesioner perilaku/psikologis lain,1.7
+cbcl_1.5-5_sleep_t,Kuesioner perilaku/psikologis lain,1.7
+cbcl_1.5-5_attention_problem_t,Kuesioner perilaku/psikologis lain,1.7
+cbcl_1.5-5_aggressive_t,Kuesioner perilaku/psikologis lain,1.7
+cbcl_1.5-5_internal_t,Kuesioner perilaku/psikologis lain,1.7
+cbcl_1.5-5_external_t,Kuesioner perilaku/psikologis lain,1.7
+cbcl_1.5-5_total_t,Kuesioner perilaku/psikologis lain,1.7
+cbcl_1.5-5_stress_t,Kuesioner perilaku/psikologis lain,0.0
+cbcl_1.5-5_affective_t,Kuesioner perilaku/psikologis lain,1.7
+cbcl_1.5-5_anxiety_t,Kuesioner perilaku/psikologis lain,1.7
+cbcl_1.5-5_pervasive_t,Kuesioner perilaku/psikologis lain,1.7
+cbcl_1.5-5_attention_deficit_t,Kuesioner perilaku/psikologis lain,1.7
+cbcl_1.5-5_oppositional_t,Kuesioner perilaku/psikologis lain,1.7
+bdi_edition,Kuesioner perilaku/psikologis lain,13.4
+bdi_total,Kuesioner perilaku/psikologis lain,13.4
+wiat-ii-a_word_t,Tes akademik/motorik,9.0
+wiat-ii-a_numerical_t,Tes akademik/motorik,9.0
+wiat-ii-a_spelling_t,Tes akademik/motorik,9.0
+wiat-ii-a_total_composite_s,Tes akademik/motorik,9.0
+vmi_edition,Tes akademik/motorik,5.8
+vmi_vmi_s,Tes akademik/motorik,5.8
+celf_edition,Tes akademik/motorik,5.6
+celf_5-8_core_s,Tes akademik/motorik,0.4
+celf_5-8_receptive_s,Tes akademik/motorik,0.4
+celf_5-8_expressive_s,Tes akademik/motorik,0.4
+celf_9-21_core_s,Tes akademik/motorik,5.2
+celf_9-21_receptive_s,Tes akademik/motorik,5.2
+celf_9-21_expressive_s,Tes akademik/motorik,5.2
+basc2_prs_version,Kuesioner perilaku/psikologis lain,3.2
+basc2_prs_anger_t,Kuesioner perilaku/psikologis lain,3.2
+basc2_prs_hyperactivity_t,Kuesioner perilaku/psikologis lain,3.2
+basc2_prs_aggression_t,Kuesioner perilaku/psikologis lain,3.2
+basc2_prs_conduct_t,Kuesioner perilaku/psikologis lain,3.2
+basc2_prs_external_t,Kuesioner perilaku/psikologis lain,12.1
+basc2_prs_external_mean_t,Kuesioner perilaku/psikologis lain,3.2
+basc2_prs_anxiety_t,Kuesioner perilaku/psikologis lain,3.2
+basc2_prs_depression_t,Kuesioner perilaku/psikologis lain,3.2
+basc2_prs_somatization_t,Kuesioner perilaku/psikologis lain,3.2
+basc2_prs_internal_t,Kuesioner perilaku/psikologis lain,12.1
+basc2_prs_internal_mean_t,Kuesioner perilaku/psikologis lain,3.2
+basc2_prs_atypicality_t,Kuesioner perilaku/psikologis lain,3.2
+basc2_prs_withdrawal_t,Kuesioner perilaku/psikologis lain,3.2
+basc2_prs_attention_t,Kuesioner perilaku/psikologis lain,3.2
+basc2_prs_bsi_t,Kuesioner perilaku/psikologis lain,12.1
+basc2_prs_bsi_mean_t,Kuesioner perilaku/psikologis lain,3.2
+basc2_prs_adaptability_t,Kuesioner perilaku/psikologis lain,3.2
+basc2_prs_social_t,Kuesioner perilaku/psikologis lain,3.2
+basc2_prs_leadership_t,Kuesioner perilaku/psikologis lain,3.2
+basc2_prs_activities_t,Kuesioner perilaku/psikologis lain,3.2
+basc2_prs_functional_t,Kuesioner perilaku/psikologis lain,3.2
+basc2_prs_adaptive_t,Kuesioner perilaku/psikologis lain,12.1
+basc2_prs_adaptive_mean_t,Kuesioner perilaku/psikologis lain,3.2
+basc2_prs_bully_t,Kuesioner perilaku/psikologis lain,3.2
+basc2_prs_dsd_t,Kuesioner perilaku/psikologis lain,3.2
+basc2_prs_emotional_t,Kuesioner perilaku/psikologis lain,3.2
+basc2_prs_executive_t,Kuesioner perilaku/psikologis lain,3.2
+basc2_prs_negative_t,Kuesioner perilaku/psikologis lain,3.2
+basc2_prs_resiliency_t,Kuesioner perilaku/psikologis lain,3.2
+cprs_opp,Kuesioner perilaku/psikologis lain,9.9
+cprs_cog-inatt,Kuesioner perilaku/psikologis lain,9.9
+cprs_hyperact,Kuesioner perilaku/psikologis lain,9.9
+cprs_anx_shy,Kuesioner perilaku/psikologis lain,9.9
+cprs_perfect,Kuesioner perilaku/psikologis lain,9.9
+cprs_social_prob,Kuesioner perilaku/psikologis lain,9.9
+cprs_psycho_somatic,Kuesioner perilaku/psikologis lain,9.9
+cprs_conn_adhd,Kuesioner perilaku/psikologis lain,9.9
+cprs_rest_impuls,Kuesioner perilaku/psikologis lain,9.9
+cprs_emot_lability,Kuesioner perilaku/psikologis lain,9.9
+cprs_conn_gi_total,Kuesioner perilaku/psikologis lain,9.9
+cprs_dsm_iv_inatt,Kuesioner perilaku/psikologis lain,9.9
+cprs_dsm_iv_hyper_impul,Kuesioner perilaku/psikologis lain,9.9
+cprs_dsm_iv_total,Kuesioner perilaku/psikologis lain,9.9
+cprs_inatt_symptoms,Kuesioner perilaku/psikologis lain,9.9
+cprs_hyper_impul_symptoms,Kuesioner perilaku/psikologis lain,9.9
+casi_adhd-i_cutoff,Kuesioner perilaku/psikologis lain,8.9
+casi_adhd-h_cutoff,Kuesioner perilaku/psikologis lain,8.9
+casi_adhd-c_cutoff,Kuesioner perilaku/psikologis lain,8.9
+casi_odd_cutoff,Kuesioner perilaku/psikologis lain,8.9
+casi_cd_cutoff,Kuesioner perilaku/psikologis lain,8.9
+casi_gad_cutoff,Kuesioner perilaku/psikologis lain,8.9
+casi_specific_phobia_cutoff,Kuesioner perilaku/psikologis lain,8.9
+casi_obsessions_cutoff,Kuesioner perilaku/psikologis lain,8.9
+casi_compulsions_cutoff,Kuesioner perilaku/psikologis lain,8.9
+casi_ptsd_cutoff,Kuesioner perilaku/psikologis lain,8.9
+casi_motor_tics_cutoff,Kuesioner perilaku/psikologis lain,8.9
+casi_vocal_tics_cutoff,Kuesioner perilaku/psikologis lain,8.9
+casi_social_phobia_cutoff,Kuesioner perilaku/psikologis lain,8.9
+casi_separation_cutoff,Kuesioner perilaku/psikologis lain,8.9
+casi_schizophrenia_cutoff,Kuesioner perilaku/psikologis lain,8.9
+casi_nocturnal_enuresis_cutoff,Kuesioner perilaku/psikologis lain,8.9
+casi_enuresis_encopresis_cutoff,Kuesioner perilaku/psikologis lain,8.9
+casi_mde_cutoff,Kuesioner perilaku/psikologis lain,8.9
+casi_dysthymic_cutoff,Kuesioner perilaku/psikologis lain,8.9
+casi_autistic_cutoff,Kuesioner perilaku/psikologis lain,7.9
+casi_asperger_cutoff,Kuesioner perilaku/psikologis lain,7.9
+casi_aspd_cutoff,Kuesioner perilaku/psikologis lain,1.2
+casi_panic_attacks_cutoff,Kuesioner perilaku/psikologis lain,1.2
+casi_somatization_cutoff,Kuesioner perilaku/psikologis lain,1.2
+casi_schizoid_personality_cutoff,Kuesioner perilaku/psikologis lain,1.2
+casi_manic_episode_cutoff,Kuesioner perilaku/psikologis lain,1.2
+casi_anorexia_nervosa_cutoff,Kuesioner perilaku/psikologis lain,1.2
+casi_bulimia_nervosa_cutoff,Kuesioner perilaku/psikologis lain,1.2
+casi_substance_use_cutoff,Kuesioner perilaku/psikologis lain,0.1
+csi_adhd-i_severity,Kuesioner perilaku/psikologis lain,1.8
+csi_adhd-i_cutoff,Kuesioner perilaku/psikologis lain,1.7
+csi_adhd-h_severity,Kuesioner perilaku/psikologis lain,1.8
+csi_adhd-h_cutoff,Kuesioner perilaku/psikologis lain,1.7
+csi_adhd-c_severity,Kuesioner perilaku/psikologis lain,1.8
+csi_adhd-c_cutoff,Kuesioner perilaku/psikologis lain,1.7
+csi_odd_severity,Kuesioner perilaku/psikologis lain,1.8
+csi_odd_ cutoff,Kuesioner perilaku/psikologis lain,1.7
+csi_cd_severity,Kuesioner perilaku/psikologis lain,1.8
+csi_cd_cutoff,Kuesioner perilaku/psikologis lain,1.7
+csi_gad_severity,Kuesioner perilaku/psikologis lain,1.8
+csi_gad_cutoff,Kuesioner perilaku/psikologis lain,1.7
+csi_specific_phobia_severity,Kuesioner perilaku/psikologis lain,1.7
+csi_specific_phobia_cutoff,Kuesioner perilaku/psikologis lain,1.7
+csi_obsessions_severity,Kuesioner perilaku/psikologis lain,1.7
+csi_obsessions_cutoff,Kuesioner perilaku/psikologis lain,1.7
+csi_compulsions_severity,Kuesioner perilaku/psikologis lain,1.7
+csi_compulsions_cutoff,Kuesioner perilaku/psikologis lain,1.7
+csi_disturbing_events_severity,Kuesioner perilaku/psikologis lain,1.7
+csi_disturbing_events_cutoff,Kuesioner perilaku/psikologis lain,1.7
+csi_motor_tics_severity,Kuesioner perilaku/psikologis lain,1.7
+csi_motor_tics_cutoff,Kuesioner perilaku/psikologis lain,1.7
+csi_vocal_tics_severity,Kuesioner perilaku/psikologis lain,1.7
+csi_vocal_tics_cutoff,Kuesioner perilaku/psikologis lain,1.7
+csi_schizophrenia_severity,Kuesioner perilaku/psikologis lain,1.7
+csi_schizophrenia_cutoff,Kuesioner perilaku/psikologis lain,1.7
+csi_mdd_severity,Kuesioner perilaku/psikologis lain,1.8
+csi_mdd_cutoff,Kuesioner perilaku/psikologis lain,1.7
+csi_dysthymic_severity,Kuesioner perilaku/psikologis lain,1.8
+csi_dysthymic_cutoff,Kuesioner perilaku/psikologis lain,1.7
+csi_autistic_severity,Kuesioner perilaku/psikologis lain,1.8
+csi_autistic_cutoff,Kuesioner perilaku/psikologis lain,1.7
+csi_asperger_severity,Kuesioner perilaku/psikologis lain,1.8
+csi_asperger_cutoff,Kuesioner perilaku/psikologis lain,1.7
+csi_social_phobia_severity,Kuesioner perilaku/psikologis lain,1.7
+csi_social_phobia_cutoff,Kuesioner perilaku/psikologis lain,1.7
+csi_separation_severity,Kuesioner perilaku/psikologis lain,1.8
+csi_separation_cutoff,Kuesioner perilaku/psikologis lain,1.7
+csi_enuresis_severity,Kuesioner perilaku/psikologis lain,1.8
+csi_enuresis_cutoff,Kuesioner perilaku/psikologis lain,1.7
+csi_encopresis_severity,Kuesioner perilaku/psikologis lain,1.8
+csi_encopresis_cutoff,Kuesioner perilaku/psikologis lain,1.7
+adi_r_a1_direct_gaze,Tes klinis autisme,4.8
+adi_r_a1_social_smile,Tes klinis autisme,4.8
+adi_r_a1_facial_expressions,Tes klinis autisme,4.8
+adi_r_a1_total,Tes klinis autisme,4.8
+adi_r_a2_imaginative_play,Tes klinis autisme,4.8
+adi_r_a2_interest_in_children,Tes klinis autisme,4.8
+adi_r_a2_response_to_approaches,Tes klinis autisme,4.8
+adi_r_a2_group_play,Tes klinis autisme,4.7
+adi_r_a2_higher,Tes klinis autisme,4.6
+adi_r_a2_friendships,Tes klinis autisme,3.7
+adi_r_a2_total,Tes klinis autisme,4.8
+adi_r_a3_showing_directing_attention,Tes klinis autisme,4.8
+adi_r_a3_offering_to_share,Tes klinis autisme,4.8
+adi_r_a3_seeking_share_enjoyment,Tes klinis autisme,4.8
+adi_r_a3_total,Tes klinis autisme,4.8
+adi_r_a4_use_others_body,Tes klinis autisme,4.8
+adi_r_a4_offering_comfort,Tes klinis autisme,4.8
+adi_r_a4_quality_social_overtures,Tes klinis autisme,4.8
+adi_r_a4_inappropriate_facial_expressions,Tes klinis autisme,4.8
+adi_r_a4_appropriate_social_responses,Tes klinis autisme,4.8
+adi_r_a4_total,Tes klinis autisme,4.8
+adi_r_b1_pointing_express_interest,Tes klinis autisme,4.8
+adi_r_b1_nodding,Tes klinis autisme,4.8
+adi_r_b1_head_shaking,Tes klinis autisme,4.8
+adi_r_b1_conventional_gestures,Tes klinis autisme,4.8
+adi_r_b1_total,Tes klinis autisme,4.8
+adi_r_b4_spontaneous_imitation,Tes klinis autisme,4.8
+adi_r_b4_imaginative_play,Tes klinis autisme,4.8
+adi_r_b4_imitative_social_play,Tes klinis autisme,4.8
+adi_r_b4_total,Tes klinis autisme,4.8
+adi_r_b2_social_verbalization,Tes klinis autisme,4.8
+adi_r_b2_reciprocal_conversation,Tes klinis autisme,4.8
+adi_r_b2_total,Tes klinis autisme,4.8
+adi_r_b3_stereotyped_utterances,Tes klinis autisme,4.8
+adi_r_b3_inappropriate_questions,Tes klinis autisme,4.8
+adi_r_b3_pronominal_reversal,Tes klinis autisme,4.8
+adi_r_b3_neologisms,Tes klinis autisme,4.8
+adi_r_b3_total,Tes klinis autisme,4.8
+adi_r_c1_unusual_preoccupations,Tes klinis autisme,4.8
+adi_r_c1_circumscribed_interests,Tes klinis autisme,4.8
+adi_r_c1_total,Tes klinis autisme,4.8
+adi_r_c2_verbal_rituals,Tes klinis autisme,4.8
+adi_r_c2_compulsions,Tes klinis autisme,4.8
+adi_r_c2_total,Tes klinis autisme,4.8
+adi_r_c3_hand_finger_mannerisms,Tes klinis autisme,4.8
+adi_r_c3_higher,Tes klinis autisme,4.7
+adi_r_c3_other_complex_mannerisms,Tes klinis autisme,4.8
+adi_r_c3_total,Tes klinis autisme,4.7
+adi_r_c4_repetitive_use_objects,Tes klinis autisme,4.8
+adi_r_c4_higher,Tes klinis autisme,4.7
+adi_r_c4_unusual_sensory_interests,Tes klinis autisme,4.8
+adi_r_c4_total,Tes klinis autisme,4.8
+adi_r_d_age_parent_noticed,Tes klinis autisme,4.8
+adi_r_d_age_first_single_words,Tes klinis autisme,4.8
+adi_r_d_age_first_phrases,Tes klinis autisme,4.8
+adi_r_d_age_when_abnormality,Tes klinis autisme,4.8
+adi_r_d_interviewer_judgment,Tes klinis autisme,4.8

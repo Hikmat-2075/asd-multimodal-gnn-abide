@@ -1,0 +1,2 @@
+Skenario,Model,Data,ACC,SEN,SPE,F1,AUC
+S1,GATv2 + node-attention pooling,rs-fMRI AAL filt_global top-10%,56.23 ± 2.30,50.20 ± 2.75,61.88 ± 5.54,52.51 ± 2.09,59.62 ± 2.25

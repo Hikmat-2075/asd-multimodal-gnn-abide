@@ -1,0 +1,16 @@
+SITE_ID,SUB_ID,SUB_ID_STR,DX_GROUP,HAS_RAW_FMRI,HAS_RAW_SMRI,ALASAN
+MAX_MUN,51366,0051366,2,False,False,Tidak ada file raw (5 subjek MAX_MUN)
+MAX_MUN,51367,0051367,2,False,False,Tidak ada file raw (5 subjek MAX_MUN)
+MAX_MUN,51368,0051368,2,False,False,Tidak ada file raw (5 subjek MAX_MUN)
+MAX_MUN,51371,0051371,2,False,False,Tidak ada file raw (5 subjek MAX_MUN)
+MAX_MUN,51372,0051372,2,False,False,Tidak ada file raw (5 subjek MAX_MUN)
+UCLA_1,51232,0051232,1,True,False,"Hanya punya fMRI, sMRI tidak ada"
+UCLA_1,51233,0051233,1,True,False,"Hanya punya fMRI, sMRI tidak ada"
+UCLA_1,51242,0051242,1,True,False,"Hanya punya fMRI, sMRI tidak ada"
+UCLA_1,51243,0051243,1,True,False,"Hanya punya fMRI, sMRI tidak ada"
+UCLA_1,51244,0051244,1,True,False,"Hanya punya fMRI, sMRI tidak ada"
+UCLA_1,51245,0051245,1,True,False,"Hanya punya fMRI, sMRI tidak ada"
+UCLA_1,51246,0051246,1,True,False,"Hanya punya fMRI, sMRI tidak ada"
+UCLA_1,51247,0051247,1,True,False,"Hanya punya fMRI, sMRI tidak ada"
+UCLA_1,51270,0051270,2,True,False,"Hanya punya fMRI, sMRI tidak ada"
+UCLA_2,51310,0051310,2,True,False,"Hanya punya fMRI, sMRI tidak ada"

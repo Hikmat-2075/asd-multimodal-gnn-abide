@@ -1,0 +1,9 @@
+Strategi,Atlas,Subjek target,Sukses,Ukuran FC,Panjang time series (min–maks),Subjek dgn ROI datar
+filt_global,AAL,1035,1035,116 × 116,78–316,87
+filt_global,HO,1035,1035,111 × 111,78–316,258
+filt_global,CC200,1035,1035,200 × 200,78–316,46
+filt_global,CC400,1035,1035,392 × 392,78–316,123
+filt_noglobal,AAL,1035,1035,116 × 116,78–316,87
+filt_noglobal,HO,1035,1035,111 × 111,78–316,258
+filt_noglobal,CC200,1035,1035,200 × 200,78–316,46
+filt_noglobal,CC400,1035,1035,392 × 392,78–316,123

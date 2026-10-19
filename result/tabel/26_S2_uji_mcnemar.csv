@@ -1,0 +1,9 @@
+Model (dibanding baseline LR),Selisih akurasi (poin),Hanya benar di model,Hanya benar di LR,p,p Holm,Kesimpulan
+S2 run 1,-2.93,114,162,0.004580967118805788,0.02748580271283473,lebih rendah secara bermakna
+S2 run 2,-3.48,100,157,0.00045473408892440727,0.0031831386224708508,lebih rendah secara bermakna
+S2 run 3,-2.01,105,138,0.039871754974525206,0.19935877487262604,setara (tidak berbeda bermakna)
+S2 run 4,-1.1,108,126,0.26638941120828175,0.7991682336248452,setara (tidak berbeda bermakna)
+S2 run 5,-1.95,118,150,0.05807198565812579,0.23228794263250316,setara (tidak berbeda bermakna)
+S2 ensemble 5 run,-0.18,88,91,0.8812234734185144,1.0,setara (tidak berbeda bermakna)
+kepala bantu: cabang graf,-5.49,166,256,1.3744402394960729e-05,0.00010995521915968583,lebih rendah secara bermakna
+kepala bantu: cabang linear,0.24,52,48,0.7643534344026669,1.0,setara (tidak berbeda bermakna)

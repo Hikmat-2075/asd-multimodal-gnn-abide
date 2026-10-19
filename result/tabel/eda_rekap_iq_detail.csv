@@ -1,0 +1,5 @@
+,FIQ,FIQ,FIQ,FIQ,FIQ,VIQ,VIQ,VIQ,VIQ,VIQ,PIQ,PIQ,PIQ,PIQ,PIQ
+,mean,std,min,median,max,mean,std,min,median,max,mean,std,min,median,max
+LABEL,,,,,,,,,,,,,,,
+ASD,105.3,17.0,41.0,105.0,148.0,104.0,18.1,42.0,103.5,180.0,105.1,17.1,37.0,106.0,157.0
+Kontrol,111.2,12.3,73.0,111.0,148.0,111.5,13.2,67.0,112.0,147.0,108.1,13.2,67.0,108.0,155.0

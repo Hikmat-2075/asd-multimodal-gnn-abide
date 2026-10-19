@@ -1,0 +1,266 @@
+Kolom,Deskripsi,Satuan
+global_lhCortexVol,Ukuran global aseg,mm³
+global_rhCortexVol,Ukuran global aseg,mm³
+global_CortexVol,Ukuran global aseg,mm³
+global_lhCorticalWhiteMatterVol,Ukuran global aseg,mm³
+global_rhCorticalWhiteMatterVol,Ukuran global aseg,mm³
+global_CorticalWhiteMatterVol,Ukuran global aseg,mm³
+global_SubCortGrayVol,Ukuran global aseg,mm³
+global_TotalGrayVol,Ukuran global aseg,mm³
+global_SupraTentorialVol,Ukuran global aseg,mm³
+global_ICV_mm3,Ukuran global aseg,mm³
+aseg_vol_Left-Lateral-Ventricle,Volume struktur hasil segmentasi aseg,mm³
+aseg_vol_Left-Inf-Lat-Vent,Volume struktur hasil segmentasi aseg,mm³
+aseg_vol_Left-Cerebellum-White-Matter,Volume struktur hasil segmentasi aseg,mm³
+aseg_vol_Left-Cerebellum-Cortex,Volume struktur hasil segmentasi aseg,mm³
+aseg_vol_Left-Thalamus-Proper,Volume struktur hasil segmentasi aseg,mm³
+aseg_vol_Left-Caudate,Volume struktur hasil segmentasi aseg,mm³
+aseg_vol_Left-Putamen,Volume struktur hasil segmentasi aseg,mm³
+aseg_vol_Left-Pallidum,Volume struktur hasil segmentasi aseg,mm³
+aseg_vol_3rd-Ventricle,Volume struktur hasil segmentasi aseg,mm³
+aseg_vol_4th-Ventricle,Volume struktur hasil segmentasi aseg,mm³
+aseg_vol_Brain-Stem,Volume struktur hasil segmentasi aseg,mm³
+aseg_vol_Left-Hippocampus,Volume struktur hasil segmentasi aseg,mm³
+aseg_vol_Left-Amygdala,Volume struktur hasil segmentasi aseg,mm³
+aseg_vol_CSF,Volume struktur hasil segmentasi aseg,mm³
+aseg_vol_Left-Accumbens-area,Volume struktur hasil segmentasi aseg,mm³
+aseg_vol_Left-VentralDC,Volume struktur hasil segmentasi aseg,mm³
+aseg_vol_Left-vessel,Volume struktur hasil segmentasi aseg,mm³
+aseg_vol_Left-choroid-plexus,Volume struktur hasil segmentasi aseg,mm³
+aseg_vol_Right-Lateral-Ventricle,Volume struktur hasil segmentasi aseg,mm³
+aseg_vol_Right-Inf-Lat-Vent,Volume struktur hasil segmentasi aseg,mm³
+aseg_vol_Right-Cerebellum-White-Matter,Volume struktur hasil segmentasi aseg,mm³
+aseg_vol_Right-Cerebellum-Cortex,Volume struktur hasil segmentasi aseg,mm³
+aseg_vol_Right-Thalamus-Proper,Volume struktur hasil segmentasi aseg,mm³
+aseg_vol_Right-Caudate,Volume struktur hasil segmentasi aseg,mm³
+aseg_vol_Right-Putamen,Volume struktur hasil segmentasi aseg,mm³
+aseg_vol_Right-Pallidum,Volume struktur hasil segmentasi aseg,mm³
+aseg_vol_Right-Hippocampus,Volume struktur hasil segmentasi aseg,mm³
+aseg_vol_Right-Amygdala,Volume struktur hasil segmentasi aseg,mm³
+aseg_vol_Right-Accumbens-area,Volume struktur hasil segmentasi aseg,mm³
+aseg_vol_Right-VentralDC,Volume struktur hasil segmentasi aseg,mm³
+aseg_vol_Right-vessel,Volume struktur hasil segmentasi aseg,mm³
+aseg_vol_Right-choroid-plexus,Volume struktur hasil segmentasi aseg,mm³
+aseg_vol_5th-Ventricle,Volume struktur hasil segmentasi aseg,mm³
+aseg_vol_WM-hypointensities,Volume struktur hasil segmentasi aseg,mm³
+aseg_vol_Left-WM-hypointensities,Volume struktur hasil segmentasi aseg,mm³
+aseg_vol_Right-WM-hypointensities,Volume struktur hasil segmentasi aseg,mm³
+aseg_vol_non-WM-hypointensities,Volume struktur hasil segmentasi aseg,mm³
+aseg_vol_Left-non-WM-hypointensities,Volume struktur hasil segmentasi aseg,mm³
+aseg_vol_Right-non-WM-hypointensities,Volume struktur hasil segmentasi aseg,mm³
+aseg_vol_Optic-Chiasm,Volume struktur hasil segmentasi aseg,mm³
+aseg_vol_CC_Posterior,Volume struktur hasil segmentasi aseg,mm³
+aseg_vol_CC_Mid_Posterior,Volume struktur hasil segmentasi aseg,mm³
+aseg_vol_CC_Central,Volume struktur hasil segmentasi aseg,mm³
+aseg_vol_CC_Mid_Anterior,Volume struktur hasil segmentasi aseg,mm³
+aseg_vol_CC_Anterior,Volume struktur hasil segmentasi aseg,mm³
+global_lh_NumVert,Jumlah vertex permukaan korteks,-
+global_lh_WhiteSurfArea,Luas permukaan white total satu belahan,mm²
+global_lh_MeanThickness,Ketebalan korteks rata-rata satu belahan,mm
+ct_lh_bankssts,Ketebalan korteks rata-rata wilayah,mm
+sa_lh_bankssts,Luas permukaan wilayah (permukaan white),mm²
+gmv_lh_bankssts,Volume grey matter wilayah,mm³
+ct_lh_caudalanteriorcingulate,Ketebalan korteks rata-rata wilayah,mm
+sa_lh_caudalanteriorcingulate,Luas permukaan wilayah (permukaan white),mm²
+gmv_lh_caudalanteriorcingulate,Volume grey matter wilayah,mm³
+ct_lh_caudalmiddlefrontal,Ketebalan korteks rata-rata wilayah,mm
+sa_lh_caudalmiddlefrontal,Luas permukaan wilayah (permukaan white),mm²
+gmv_lh_caudalmiddlefrontal,Volume grey matter wilayah,mm³
+ct_lh_cuneus,Ketebalan korteks rata-rata wilayah,mm
+sa_lh_cuneus,Luas permukaan wilayah (permukaan white),mm²
+gmv_lh_cuneus,Volume grey matter wilayah,mm³
+ct_lh_entorhinal,Ketebalan korteks rata-rata wilayah,mm
+sa_lh_entorhinal,Luas permukaan wilayah (permukaan white),mm²
+gmv_lh_entorhinal,Volume grey matter wilayah,mm³
+ct_lh_fusiform,Ketebalan korteks rata-rata wilayah,mm
+sa_lh_fusiform,Luas permukaan wilayah (permukaan white),mm²
+gmv_lh_fusiform,Volume grey matter wilayah,mm³
+ct_lh_inferiorparietal,Ketebalan korteks rata-rata wilayah,mm
+sa_lh_inferiorparietal,Luas permukaan wilayah (permukaan white),mm²
+gmv_lh_inferiorparietal,Volume grey matter wilayah,mm³
+ct_lh_inferiortemporal,Ketebalan korteks rata-rata wilayah,mm
+sa_lh_inferiortemporal,Luas permukaan wilayah (permukaan white),mm²
+gmv_lh_inferiortemporal,Volume grey matter wilayah,mm³
+ct_lh_isthmuscingulate,Ketebalan korteks rata-rata wilayah,mm
+sa_lh_isthmuscingulate,Luas permukaan wilayah (permukaan white),mm²
+gmv_lh_isthmuscingulate,Volume grey matter wilayah,mm³
+ct_lh_lateraloccipital,Ketebalan korteks rata-rata wilayah,mm
+sa_lh_lateraloccipital,Luas permukaan wilayah (permukaan white),mm²
+gmv_lh_lateraloccipital,Volume grey matter wilayah,mm³
+ct_lh_lateralorbitofrontal,Ketebalan korteks rata-rata wilayah,mm
+sa_lh_lateralorbitofrontal,Luas permukaan wilayah (permukaan white),mm²
+gmv_lh_lateralorbitofrontal,Volume grey matter wilayah,mm³
+ct_lh_lingual,Ketebalan korteks rata-rata wilayah,mm
+sa_lh_lingual,Luas permukaan wilayah (permukaan white),mm²
+gmv_lh_lingual,Volume grey matter wilayah,mm³
+ct_lh_medialorbitofrontal,Ketebalan korteks rata-rata wilayah,mm
+sa_lh_medialorbitofrontal,Luas permukaan wilayah (permukaan white),mm²
+gmv_lh_medialorbitofrontal,Volume grey matter wilayah,mm³
+ct_lh_middletemporal,Ketebalan korteks rata-rata wilayah,mm
+sa_lh_middletemporal,Luas permukaan wilayah (permukaan white),mm²
+gmv_lh_middletemporal,Volume grey matter wilayah,mm³
+ct_lh_parahippocampal,Ketebalan korteks rata-rata wilayah,mm
+sa_lh_parahippocampal,Luas permukaan wilayah (permukaan white),mm²
+gmv_lh_parahippocampal,Volume grey matter wilayah,mm³
+ct_lh_paracentral,Ketebalan korteks rata-rata wilayah,mm
+sa_lh_paracentral,Luas permukaan wilayah (permukaan white),mm²
+gmv_lh_paracentral,Volume grey matter wilayah,mm³
+ct_lh_parsopercularis,Ketebalan korteks rata-rata wilayah,mm
+sa_lh_parsopercularis,Luas permukaan wilayah (permukaan white),mm²
+gmv_lh_parsopercularis,Volume grey matter wilayah,mm³
+ct_lh_parsorbitalis,Ketebalan korteks rata-rata wilayah,mm
+sa_lh_parsorbitalis,Luas permukaan wilayah (permukaan white),mm²
+gmv_lh_parsorbitalis,Volume grey matter wilayah,mm³
+ct_lh_parstriangularis,Ketebalan korteks rata-rata wilayah,mm
+sa_lh_parstriangularis,Luas permukaan wilayah (permukaan white),mm²
+gmv_lh_parstriangularis,Volume grey matter wilayah,mm³
+ct_lh_pericalcarine,Ketebalan korteks rata-rata wilayah,mm
+sa_lh_pericalcarine,Luas permukaan wilayah (permukaan white),mm²
+gmv_lh_pericalcarine,Volume grey matter wilayah,mm³
+ct_lh_postcentral,Ketebalan korteks rata-rata wilayah,mm
+sa_lh_postcentral,Luas permukaan wilayah (permukaan white),mm²
+gmv_lh_postcentral,Volume grey matter wilayah,mm³
+ct_lh_posteriorcingulate,Ketebalan korteks rata-rata wilayah,mm
+sa_lh_posteriorcingulate,Luas permukaan wilayah (permukaan white),mm²
+gmv_lh_posteriorcingulate,Volume grey matter wilayah,mm³
+ct_lh_precentral,Ketebalan korteks rata-rata wilayah,mm
+sa_lh_precentral,Luas permukaan wilayah (permukaan white),mm²
+gmv_lh_precentral,Volume grey matter wilayah,mm³
+ct_lh_precuneus,Ketebalan korteks rata-rata wilayah,mm
+sa_lh_precuneus,Luas permukaan wilayah (permukaan white),mm²
+gmv_lh_precuneus,Volume grey matter wilayah,mm³
+ct_lh_rostralanteriorcingulate,Ketebalan korteks rata-rata wilayah,mm
+sa_lh_rostralanteriorcingulate,Luas permukaan wilayah (permukaan white),mm²
+gmv_lh_rostralanteriorcingulate,Volume grey matter wilayah,mm³
+ct_lh_rostralmiddlefrontal,Ketebalan korteks rata-rata wilayah,mm
+sa_lh_rostralmiddlefrontal,Luas permukaan wilayah (permukaan white),mm²
+gmv_lh_rostralmiddlefrontal,Volume grey matter wilayah,mm³
+ct_lh_superiorfrontal,Ketebalan korteks rata-rata wilayah,mm
+sa_lh_superiorfrontal,Luas permukaan wilayah (permukaan white),mm²
+gmv_lh_superiorfrontal,Volume grey matter wilayah,mm³
+ct_lh_superiorparietal,Ketebalan korteks rata-rata wilayah,mm
+sa_lh_superiorparietal,Luas permukaan wilayah (permukaan white),mm²
+gmv_lh_superiorparietal,Volume grey matter wilayah,mm³
+ct_lh_superiortemporal,Ketebalan korteks rata-rata wilayah,mm
+sa_lh_superiortemporal,Luas permukaan wilayah (permukaan white),mm²
+gmv_lh_superiortemporal,Volume grey matter wilayah,mm³
+ct_lh_supramarginal,Ketebalan korteks rata-rata wilayah,mm
+sa_lh_supramarginal,Luas permukaan wilayah (permukaan white),mm²
+gmv_lh_supramarginal,Volume grey matter wilayah,mm³
+ct_lh_frontalpole,Ketebalan korteks rata-rata wilayah,mm
+sa_lh_frontalpole,Luas permukaan wilayah (permukaan white),mm²
+gmv_lh_frontalpole,Volume grey matter wilayah,mm³
+ct_lh_temporalpole,Ketebalan korteks rata-rata wilayah,mm
+sa_lh_temporalpole,Luas permukaan wilayah (permukaan white),mm²
+gmv_lh_temporalpole,Volume grey matter wilayah,mm³
+ct_lh_transversetemporal,Ketebalan korteks rata-rata wilayah,mm
+sa_lh_transversetemporal,Luas permukaan wilayah (permukaan white),mm²
+gmv_lh_transversetemporal,Volume grey matter wilayah,mm³
+ct_lh_insula,Ketebalan korteks rata-rata wilayah,mm
+sa_lh_insula,Luas permukaan wilayah (permukaan white),mm²
+gmv_lh_insula,Volume grey matter wilayah,mm³
+global_rh_NumVert,Jumlah vertex permukaan korteks,-
+global_rh_WhiteSurfArea,Luas permukaan white total satu belahan,mm²
+global_rh_MeanThickness,Ketebalan korteks rata-rata satu belahan,mm
+ct_rh_bankssts,Ketebalan korteks rata-rata wilayah,mm
+sa_rh_bankssts,Luas permukaan wilayah (permukaan white),mm²
+gmv_rh_bankssts,Volume grey matter wilayah,mm³
+ct_rh_caudalanteriorcingulate,Ketebalan korteks rata-rata wilayah,mm
+sa_rh_caudalanteriorcingulate,Luas permukaan wilayah (permukaan white),mm²
+gmv_rh_caudalanteriorcingulate,Volume grey matter wilayah,mm³
+ct_rh_caudalmiddlefrontal,Ketebalan korteks rata-rata wilayah,mm
+sa_rh_caudalmiddlefrontal,Luas permukaan wilayah (permukaan white),mm²
+gmv_rh_caudalmiddlefrontal,Volume grey matter wilayah,mm³
+ct_rh_cuneus,Ketebalan korteks rata-rata wilayah,mm
+sa_rh_cuneus,Luas permukaan wilayah (permukaan white),mm²
+gmv_rh_cuneus,Volume grey matter wilayah,mm³
+ct_rh_entorhinal,Ketebalan korteks rata-rata wilayah,mm
+sa_rh_entorhinal,Luas permukaan wilayah (permukaan white),mm²
+gmv_rh_entorhinal,Volume grey matter wilayah,mm³
+ct_rh_fusiform,Ketebalan korteks rata-rata wilayah,mm
+sa_rh_fusiform,Luas permukaan wilayah (permukaan white),mm²
+gmv_rh_fusiform,Volume grey matter wilayah,mm³
+ct_rh_inferiorparietal,Ketebalan korteks rata-rata wilayah,mm
+sa_rh_inferiorparietal,Luas permukaan wilayah (permukaan white),mm²
+gmv_rh_inferiorparietal,Volume grey matter wilayah,mm³
+ct_rh_inferiortemporal,Ketebalan korteks rata-rata wilayah,mm
+sa_rh_inferiortemporal,Luas permukaan wilayah (permukaan white),mm²
+gmv_rh_inferiortemporal,Volume grey matter wilayah,mm³
+ct_rh_isthmuscingulate,Ketebalan korteks rata-rata wilayah,mm
+sa_rh_isthmuscingulate,Luas permukaan wilayah (permukaan white),mm²
+gmv_rh_isthmuscingulate,Volume grey matter wilayah,mm³
+ct_rh_lateraloccipital,Ketebalan korteks rata-rata wilayah,mm
+sa_rh_lateraloccipital,Luas permukaan wilayah (permukaan white),mm²
+gmv_rh_lateraloccipital,Volume grey matter wilayah,mm³
+ct_rh_lateralorbitofrontal,Ketebalan korteks rata-rata wilayah,mm
+sa_rh_lateralorbitofrontal,Luas permukaan wilayah (permukaan white),mm²
+gmv_rh_lateralorbitofrontal,Volume grey matter wilayah,mm³
+ct_rh_lingual,Ketebalan korteks rata-rata wilayah,mm
+sa_rh_lingual,Luas permukaan wilayah (permukaan white),mm²
+gmv_rh_lingual,Volume grey matter wilayah,mm³
+ct_rh_medialorbitofrontal,Ketebalan korteks rata-rata wilayah,mm
+sa_rh_medialorbitofrontal,Luas permukaan wilayah (permukaan white),mm²
+gmv_rh_medialorbitofrontal,Volume grey matter wilayah,mm³
+ct_rh_middletemporal,Ketebalan korteks rata-rata wilayah,mm
+sa_rh_middletemporal,Luas permukaan wilayah (permukaan white),mm²
+gmv_rh_middletemporal,Volume grey matter wilayah,mm³
+ct_rh_parahippocampal,Ketebalan korteks rata-rata wilayah,mm
+sa_rh_parahippocampal,Luas permukaan wilayah (permukaan white),mm²
+gmv_rh_parahippocampal,Volume grey matter wilayah,mm³
+ct_rh_paracentral,Ketebalan korteks rata-rata wilayah,mm
+sa_rh_paracentral,Luas permukaan wilayah (permukaan white),mm²
+gmv_rh_paracentral,Volume grey matter wilayah,mm³
+ct_rh_parsopercularis,Ketebalan korteks rata-rata wilayah,mm
+sa_rh_parsopercularis,Luas permukaan wilayah (permukaan white),mm²
+gmv_rh_parsopercularis,Volume grey matter wilayah,mm³
+ct_rh_parsorbitalis,Ketebalan korteks rata-rata wilayah,mm
+sa_rh_parsorbitalis,Luas permukaan wilayah (permukaan white),mm²
+gmv_rh_parsorbitalis,Volume grey matter wilayah,mm³
+ct_rh_parstriangularis,Ketebalan korteks rata-rata wilayah,mm
+sa_rh_parstriangularis,Luas permukaan wilayah (permukaan white),mm²
+gmv_rh_parstriangularis,Volume grey matter wilayah,mm³
+ct_rh_pericalcarine,Ketebalan korteks rata-rata wilayah,mm
+sa_rh_pericalcarine,Luas permukaan wilayah (permukaan white),mm²
+gmv_rh_pericalcarine,Volume grey matter wilayah,mm³
+ct_rh_postcentral,Ketebalan korteks rata-rata wilayah,mm
+sa_rh_postcentral,Luas permukaan wilayah (permukaan white),mm²
+gmv_rh_postcentral,Volume grey matter wilayah,mm³
+ct_rh_posteriorcingulate,Ketebalan korteks rata-rata wilayah,mm
+sa_rh_posteriorcingulate,Luas permukaan wilayah (permukaan white),mm²
+gmv_rh_posteriorcingulate,Volume grey matter wilayah,mm³
+ct_rh_precentral,Ketebalan korteks rata-rata wilayah,mm
+sa_rh_precentral,Luas permukaan wilayah (permukaan white),mm²
+gmv_rh_precentral,Volume grey matter wilayah,mm³
+ct_rh_precuneus,Ketebalan korteks rata-rata wilayah,mm
+sa_rh_precuneus,Luas permukaan wilayah (permukaan white),mm²
+gmv_rh_precuneus,Volume grey matter wilayah,mm³
+ct_rh_rostralanteriorcingulate,Ketebalan korteks rata-rata wilayah,mm
+sa_rh_rostralanteriorcingulate,Luas permukaan wilayah (permukaan white),mm²
+gmv_rh_rostralanteriorcingulate,Volume grey matter wilayah,mm³
+ct_rh_rostralmiddlefrontal,Ketebalan korteks rata-rata wilayah,mm
+sa_rh_rostralmiddlefrontal,Luas permukaan wilayah (permukaan white),mm²
+gmv_rh_rostralmiddlefrontal,Volume grey matter wilayah,mm³
+ct_rh_superiorfrontal,Ketebalan korteks rata-rata wilayah,mm
+sa_rh_superiorfrontal,Luas permukaan wilayah (permukaan white),mm²
+gmv_rh_superiorfrontal,Volume grey matter wilayah,mm³
+ct_rh_superiorparietal,Ketebalan korteks rata-rata wilayah,mm
+sa_rh_superiorparietal,Luas permukaan wilayah (permukaan white),mm²
+gmv_rh_superiorparietal,Volume grey matter wilayah,mm³
+ct_rh_superiortemporal,Ketebalan korteks rata-rata wilayah,mm
+sa_rh_superiortemporal,Luas permukaan wilayah (permukaan white),mm²
+gmv_rh_superiortemporal,Volume grey matter wilayah,mm³
+ct_rh_supramarginal,Ketebalan korteks rata-rata wilayah,mm
+sa_rh_supramarginal,Luas permukaan wilayah (permukaan white),mm²
+gmv_rh_supramarginal,Volume grey matter wilayah,mm³
+ct_rh_frontalpole,Ketebalan korteks rata-rata wilayah,mm
+sa_rh_frontalpole,Luas permukaan wilayah (permukaan white),mm²
+gmv_rh_frontalpole,Volume grey matter wilayah,mm³
+ct_rh_temporalpole,Ketebalan korteks rata-rata wilayah,mm
+sa_rh_temporalpole,Luas permukaan wilayah (permukaan white),mm²
+gmv_rh_temporalpole,Volume grey matter wilayah,mm³
+ct_rh_transversetemporal,Ketebalan korteks rata-rata wilayah,mm
+sa_rh_transversetemporal,Luas permukaan wilayah (permukaan white),mm²
+gmv_rh_transversetemporal,Volume grey matter wilayah,mm³
+ct_rh_insula,Ketebalan korteks rata-rata wilayah,mm
+sa_rh_insula,Luas permukaan wilayah (permukaan white),mm²
+gmv_rh_insula,Volume grey matter wilayah,mm³

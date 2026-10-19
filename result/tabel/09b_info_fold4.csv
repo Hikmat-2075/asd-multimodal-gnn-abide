@@ -1,0 +1,15 @@
+,nilai
+C_D_aal,0.0001
+C_E_aal,0.0001
+C_D_harvard_oxford,0.0001
+C_E_harvard_oxford,0.0001
+C_D_cc200,0.0001
+C_E_cc200,0.0001
+C_D_cc400,0.1
+C_E_cc400,10.0
+C_smri,0.0001
+C_smri_tanpa_combat,0.001
+C_feno,0.0001
+bobot_F1,1.29;1.20;1.60;1.36;0.57
+bobot_F2,1.29;1.21;1.59;1.36;0.61;0.01
+bobot_F2 tanpa ComBat,1.01;1.05;1.13;2.03;0.99;0.04

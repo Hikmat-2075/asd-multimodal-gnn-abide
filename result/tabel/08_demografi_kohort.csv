@@ -1,0 +1,8 @@
+Variabel,ASD,Kontrol,p-value
+Jumlah subjek,476,511,-
+Umur (tahun),16.9 ± 8.4 (n=476),16.8 ± 7.4 (n=511),0.837
+Full-scale IQ,105.4 ± 16.9 (n=445),110.9 ± 12.4 (n=477),2.7e-08
+Verbal IQ,104.0 ± 18.1 (n=397),111.4 ± 13.4 (n=414),7.43e-11
+Performance IQ,105.1 ± 17.1 (n=399),107.6 ± 13.1 (n=426),0.0187
+Panjang time series (frame),192.4 ± 56.8 (n=476),193.7 ± 58.6 (n=511),0.729
+Laki-laki / perempuan,420 / 56,417 / 94,0.00494
